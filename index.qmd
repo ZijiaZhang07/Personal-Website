@@ -1,0 +1,29 @@
+---
+title: "Zijia Zhang"
+about:
+  template: solana
+  image: profile.jpg
+  links:
+    - icon: Linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/zijia-zhang-psychology
+    - text: Email
+      url: "mailto: zijiazhang@g.ucla.edu"
+    - icon: github
+      text: Github
+      href: https://github.com/ZijiaZhang07
+---
+
+Zijia is a fourth-year Psychology and Statistics major at UCLA, hoping to pursuing a PhD in Clinical Psychology. They have a keen interest in child anxiety and depression, using fMRI and advanced computational methods to study the mechanisms underlying social functioning and emotion regulation. The research will inform the design and implementation of mental health interventions.
+
+Download [my CV](/CV_Zijia Zhang.pdf)
+
+## Education
+
+University of California, Los Angeles \| Los Angeles, CA B.A in Psychology & B.S in Statistics and Data Science \| Sept 2023 - June 2025
+
+University of California, Santa Barbara \| Santa Barbara, CA B.S in Psychology \| Sept 2021 - June 2023
+
+## Experience
+
+Semel Institute for Neuroscience and Human Behavior \| Undergraduate Research Assistant \| January 2024 - present

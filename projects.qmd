@@ -1,0 +1,15 @@
+---
+title: "Projects"
+---
+
+### Project 1
+
+Here is my first [project](/projects/project_1.qmd)
+
+% what if you have a lot of projects
+may use listing
+
+### Project 2
+
+
+### Project 3
