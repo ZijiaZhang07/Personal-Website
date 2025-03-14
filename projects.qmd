@@ -1,15 +1,29 @@
 ---
 title: "Projects"
+output: html
+fig-cap-location: bottom
 ---
 
 ### Project 1
 
-Here is my first [project](/projects/project_1.qmd)
+Stats 101A Academic Performance Analysis using Multiple Linear Regression
 
-% what if you have a lot of projects
-may use listing
+For more details of [Project 1](projects/project_1.qmd).
+
+![Image 1](images/study.jpg){width="50%"}
 
 ### Project 2
 
+Stats 101B Effects of Animal Companions on Cortisol Levels: A Simulated Observational Study
+
+For more details of [Project 2](projects/project_2.qmd).
+
+![Image 2](images/cat%20dog.jpg){width="50%"}
 
 ### Project 3
+
+Stats 101C Obesity Status Classification
+
+For more details of [Project 3](projects/project_3.qmd).
+
+![Image 3](images/running.jpg){width="50%"}

@@ -1,0 +1,8 @@
+---
+title: "Obesity Status Classification"
+format: html
+---
+
+This Kaggle project focused on predicting obesity status using a dataset with 29 predictors, including health metrics, lifestyle factors, and demographics. The dataset contained 32,014 observations in the training set and 10,672 observations in the testing set. 
+
+After conducting a literature review, I cleaned the data by imputing missing values using the mice package in R and performed exploratory data analysis using density plots and bar charts to identify key predictors. We tested multiple models, including Naive Bayes, KNN, LDA/QDA, logistic regression, and spline regression, but the Random Forest model performed best, achieving 98.3% accuracy with 200 trees and 7 predictors per split. The model highlighted important factors like age, height, and physical activity frequency. After completing the paper, I presented the findings to the class. Overall, the project demonstrated the effectiveness of machine learning in addressing public health challenges like obesity.

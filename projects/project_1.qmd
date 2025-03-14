@@ -1,5 +1,7 @@
 ---
-title: "project_1"
-format: html
+title: "Academic Performance Analysis using Multiple Linear Regression"
 ---
 
+In this project, we investigated the factors influencing students' academic performance, measured by the Performance Index, using [a Kaggle dateset](https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression). The dataset included 10,000 observations and variables such as hours studied, previous academic scores, sleep hours, extracurricular activities, and sample question papers practiced. Our goal was to determine how these factors contribute to students' current academic performance.
+
+In this project, I evaluated whether variable selection could simplify our transformed multiple linear regression model predicting student academic performance. Using AIC, AICc, BIC, and adjusted R-squared, I ran all subsets regression and stepwise regression (both backward and forward) to compare models. The results showed that the full model with all transformed predictors performed best. Stepwise regression confirmed this, with backward selection favoring the full model and forward selection suggesting no predictors. I concluded that no variable selection was needed, and the full model with all transformed predictors was optimal. This work demonstrated my ability to apply statistical techniques and make data-driven decisions to ensure model accuracy and robustness using R.

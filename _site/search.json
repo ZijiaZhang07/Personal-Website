@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Zijia Zhang",
     "section": "",
-    "text": "Zijia is a fourth-year Psychology and Statistics major at UCLA, hoping to pursuing a PhD in Clinical Psychology. They have a keen interest in child anxiety and depression, using fMRI and advanced computational methods to study the mechanisms underlying social functioning and emotion regulation. The research will inform the design and implementation of mental health interventions.\nDownload my CV"
+    "text": "Zijia is a fourth-year Psychology and Statistics major at UCLA, hoping to pursuing a PhD in Clinical Psychology. They have a keen interest in child anxiety and depression, using fMRI and advanced computational methods to study the mechanisms underlying social functioning and emotion regulation. The research will inform the design and implementation of mental health interventions.\nDownload my CV."
   },
   {
     "objectID": "about.html",
@@ -32,6 +32,27 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Project 1\nHere is my first project\n% what if you have a lot of projects may use listing\n\n\nProject 2\n\n\nProject 3"
+    "text": "Project 1\nStats 101A Academic Performance Analysis using Multiple Linear Regression\nFor more details of Project 1.\n\n\n\nImage 1\n\n\n\n\nProject 2\nStats 101B Effects of Animal Companions on Cortisol Levels: A Simulated Observational Study\nFor more details of Project 2.\n\n\n\nImage 2\n\n\n\n\nProject 3\nStats 101C Obesity Status Classification\nFor more details of Project 3.\n\n\n\nImage 3"
+  },
+  {
+    "objectID": "projects/project_1.html",
+    "href": "projects/project_1.html",
+    "title": "Academic Performance Analysis using Multiple Linear Regression",
+    "section": "",
+    "text": "In this project, we investigated the factors influencing students’ academic performance, measured by the Performance Index, using a Kaggle dateset. The dataset included 10,000 observations and variables such as hours studied, previous academic scores, sleep hours, extracurricular activities, and sample question papers practiced. Our goal was to determine how these factors contribute to students’ current academic performance.\nIn this project, I evaluated whether variable selection could simplify our transformed multiple linear regression model predicting student academic performance. Using AIC, AICc, BIC, and adjusted R-squared, I ran all subsets regression and stepwise regression (both backward and forward) to compare models. The results showed that the full model with all transformed predictors performed best. Stepwise regression confirmed this, with backward selection favoring the full model and forward selection suggesting no predictors. I concluded that no variable selection was needed, and the full model with all transformed predictors was optimal. This work demonstrated my ability to apply statistical techniques and make data-driven decisions to ensure model accuracy and robustness using R."
+  },
+  {
+    "objectID": "projects/project_3.html",
+    "href": "projects/project_3.html",
+    "title": "Obesity Status Classification",
+    "section": "",
+    "text": "This Kaggle project focused on predicting obesity status using a dataset with 29 predictors, including health metrics, lifestyle factors, and demographics. The dataset contained 32,014 observations in the training set and 10,672 observations in the testing set.\nAfter conducting a literature review, I cleaned the data by imputing missing values using the mice package in R and performed exploratory data analysis using density plots and bar charts to identify key predictors. We tested multiple models, including Naive Bayes, KNN, LDA/QDA, logistic regression, and spline regression, but the Random Forest model performed best, achieving 98.3% accuracy with 200 trees and 7 predictors per split. The model highlighted important factors like age, height, and physical activity frequency. After completing the paper, I presented the findings to the class. Overall, the project demonstrated the effectiveness of machine learning in addressing public health challenges like obesity."
+  },
+  {
+    "objectID": "projects/project_2.html",
+    "href": "projects/project_2.html",
+    "title": "Effects of Animal Companions on Cortisol Levels: A Simulated Observational Study",
+    "section": "",
+    "text": "In this project, we designed and conducted a study to investigate the effects of animal interactions (cats, dogs, and crocodiles) on stress reduction, measured by changes in blood cortisol levels, across different time intervals (10, 20, and 30 minutes). Using a virtual environment, we recruited 120 participants (60 female, 60 male, aged 25–40) from a simulated human population, ensuring a balanced and randomized design. The study employed a two-way randomized complete block design, with gender as the blocking factor and four treatment conditions (control, cat, crocodile, and dog) crossed with three time durations. We collected pre- and post-intervention blood cortisol data virtually, ensuring consistency by standardizing the experiment timing to 11 AM when cortisol levels peak.\nAfter data collection, we performed statistical analysis using R, running ANOVA to assess the main effects of treatment type, time, and their interaction, as well as the blocking effect of gender. The results revealed significant cortisol reduction with cat and dog interactions, no significant effect of time, and a minor gender influence. This virtual study design and analysis provided valuable insights into the stress-relieving effects of animal interactions, laying the groundwork for future real-world applications."
   }
 ]

@@ -1,0 +1,8 @@
+---
+title: "Effects of Animal Companions on Cortisol Levels: A Simulated Observational Study"
+format: html
+---
+
+In this project, we designed and conducted a study to investigate the effects of animal interactions (cats, dogs, and crocodiles) on stress reduction, measured by changes in blood cortisol levels, across different time intervals (10, 20, and 30 minutes). Using a virtual environment, we recruited 120 participants (60 female, 60 male, aged 25–40) from [a simulated human population](https://islands.smp.uq.edu.au/login.php), ensuring a balanced and randomized design. The study employed a two-way randomized complete block design, with gender as the blocking factor and four treatment conditions (control, cat, crocodile, and dog) crossed with three time durations. We collected pre- and post-intervention blood cortisol data virtually, ensuring consistency by standardizing the experiment timing to 11 AM when cortisol levels peak. 
+
+After data collection, we performed statistical analysis using R, running ANOVA to assess the main effects of treatment type, time, and their interaction, as well as the blocking effect of gender. The results revealed significant cortisol reduction with cat and dog interactions, no significant effect of time, and a minor gender influence. This virtual study design and analysis provided valuable insights into the stress-relieving effects of animal interactions, laying the groundwork for future real-world applications.

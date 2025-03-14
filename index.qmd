@@ -2,7 +2,7 @@
 title: "Zijia Zhang"
 about:
   template: solana
-  image: profile.jpg
+  image: images/profile.jpg
   links:
     - icon: Linkedin
       text: Linkedin
@@ -16,7 +16,7 @@ about:
 
 Zijia is a fourth-year Psychology and Statistics major at UCLA, hoping to pursuing a PhD in Clinical Psychology. They have a keen interest in child anxiety and depression, using fMRI and advanced computational methods to study the mechanisms underlying social functioning and emotion regulation. The research will inform the design and implementation of mental health interventions.
 
-Download [my CV](/CV_Zijia Zhang.pdf)
+Download [my CV](/CV_Zijia Zhang.pdf).
 
 ## Education
 
